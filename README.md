@@ -9,7 +9,7 @@ The project demonstrates frontend + backend integration + database CRUD operatio
 🚀 Live Demo
 
 👉 Frontend (Netlify):
-[https://your-netlify-link.netlify.app](https://stopwatchbyshubh.netlify.app/)
+https://prodigy-wd-02-opal.vercel.app/
 
 👉 Backend API (Render):
 ](https://prodigy-wd-02-1.onrender.com)
